@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <Box bgColor={'whiteAlpha.900'} color={'blackAlpha.700'} minH={'48'} px={'16'}py={['16','8']}>
+    <Box bgColor={'blackAlpha.900'} color={'blackAlpha.700'} minH={'48'} px={'16'}py={['16','8']}>
         <Stack direction={['column','row']} h={'full'} alignItems={'center'}>
             <VStack w={'full'} alignItems={['center','flex-start']}>
                <Text fontWeight={'bold'}color={'blackAlpha.900'}>About Us</Text>
