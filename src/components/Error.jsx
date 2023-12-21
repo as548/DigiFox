@@ -4,7 +4,7 @@ import React from "react";
 const Error = ({ message }) => {
   return (
     <>
-    <Box bgColor={'blackAlpha.600'} w={'full'} h={'90vh'}>
+    <Box bgColor={'blackAlpha.900'} w={'full'} h={'90vh'}>
       
     </Box>
       <Alert
